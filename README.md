@@ -43,3 +43,14 @@ Chame o agente com o comando:
 ```javascript
 python agente.py 
 ```
+O agente deverá estar ativo e pronto para uso
+```javascript
+Carregando configurações...
+Carregando arquivos CSV...
+✓ Arquivos carregados com sucesso!
+Criando o agente... 🤖
+✓ Agente pronto para trabalhar!
+--------------------------------------------------
+Faça sua pergunta sobre as notas fiscais (ou digite 'sair'): 
+
+```
