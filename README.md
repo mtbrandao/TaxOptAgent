@@ -54,3 +54,23 @@ Criando o agente... 🤖
 Faça sua pergunta sobre as notas fiscais (ou digite 'sair'): 
 
 ```
+
+## Sobre o Repositório
+
+Este repositório faz parte do projeto **"Agentes Autônomos de IA para Gestão Tributária e Análise Estratégica"**, desenvolvido pelo grupo **Tax Opt Agent**.
+
+O trabalho está sendo realizado no contexto do curso  
+**"Agentes Autônomos com Redes Generativas"**, promovido pelo **Instituto I2A2** (Instituto de Inteligência Artificial Aplicada).
+
+Aqui estão reunidos os códigos, modelos e documentos produzidos ao longo do projeto, com foco em soluções baseadas em IA para apoio à tomada de decisão na área tributária.
+
+## Integrantes do grupo Tax Opt Agent
+
+- Aldair Silva de Jesus  
+- Anejéssica de Brito Figueiredo  
+- Antonio Wilson Cruz Ferreira Filho  
+- Cristiane Coradini Chiorato  
+- Fábio Augusto Ribeiro  
+- Marcelo Toscani Brandão  
+- Mariana Oliveira Ribeiro  
+- Vinicius Pereira
